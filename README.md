@@ -76,11 +76,16 @@ and at the end of the semester this forder will contain as many things as possib
 
 
 
-****prepared by NIZAWE AIME SAM PRAY founder of THRIPLE F(FIRST FOCUS FASTER ) *****
+****prepared by NIZAWE AIME SAM PRAY founder of THRIPLE F(FIRST FOCUS FASTER )****
 
 
 
-             all right reserved @ 2026 
+                     
+
+                      
+                       
+                       all right reserved @ 2026 
+
 
 
 
