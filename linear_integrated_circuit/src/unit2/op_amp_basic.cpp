@@ -14,7 +14,7 @@ void op_amp_basics() {
 
 void practical_op_amp() {
     std::cout<<"____PRACTICAL OP_AMP_____\n"
-             <<"1.input signal\n 2. ouput signal \n 3.voltage supply\n load resistances";
+             <<"1.input signal\n 2. ouput signal \n 3.voltage supply\n4. load resistances\n";
 
 
 
@@ -29,8 +29,15 @@ void ac_op_amp() {
 
 }
 float differential_op_amp(float vin1,float vin2,float Ac) {
+    
+    std::cout<<"__DIFFERNTAIL AMPLIFIER__\n";
+
 
     float vout=Ac*(vin1-vin2);
+    std::cout<<"input 1 is : "<<vin1<<"\n";
+    std::cout<<"input 2 is : "<<vin2<<"\n";
+    std::cout<<"gain  A is : "<<Ac  <<"\n";
+
 
     return vout;
 
